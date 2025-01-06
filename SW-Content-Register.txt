@@ -1,0 +1,13 @@
+Release Name: Multiple DDR testing script
+Release Version: 1.0
+Package License: LA_OPT_NXP_Software_License v58 November 2024 - Section 2.2 applies
+License File: LICENSE
+
+Config_Tools_for_i.MX   Name: Config Tools for i.MX Applications Processors
+                        Version: 16.1
+                        Outgoing License: LA_OPT_NXP_Software_License v56 April 2024
+                        Format: Binary and source code
+                        Description: Config Tools package for i.MX, including DDR Tool
+                        Origin: NXP
+
+
